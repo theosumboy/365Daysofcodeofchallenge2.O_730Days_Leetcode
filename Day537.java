@@ -14,6 +14,7 @@ class Solution {
                 }
             }
         }
+        
 
         // Store all prime numbers within the given range
         List<Integer> primes = new ArrayList<>();
